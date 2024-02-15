@@ -17,7 +17,7 @@
   "env": {
     "DATABASE_URL": {
       "description": "Place the MongoDB Connection URL you find on their Website here",
-      "default": "U01Tibdh4TbqcFl6mongodb+srv://marangadavid254:U01Tibdh4TbqcFl6@cluster0.gctela4.mongodb.net/?retryWrites=true&w=majority/",
+      "default": "mongodb+srv://marangadavid254:U01Tibdh4TbqcFl6@cluster0.gctela4.mongodb.net/?retryWrites=true&w=majority/",
       "required": true,
       "type": "string"
     },
