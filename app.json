@@ -29,7 +29,7 @@
     },
     "DISCORDBOT_TOKEN": {
       "description": "Place the Discord Bot Token here",
-      "default": "MTIwNzY4MDUwNjc2Mjc2MDI5Mw.GWDMrO.mYsBP7n0nMjQ1HIovbDCr3EzfhbPlsF28YM5Ig",
+      "default": "MTIwNzY4MDUwNjc2Mjc2MDI5Mw.GNSnTS.jYZN334b3IR8ViEhbblg_hDdoTf8-b1a0cKVL8",
       "required": true,
       "type": "string"
     }
